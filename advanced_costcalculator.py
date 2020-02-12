@@ -72,7 +72,7 @@ def list_debts(cost_statistics):
 
 
 def main():
-    print("Hello!\n")
+    print("Hello again!\n")
     cost_statistics = read_names()
     add_costs(cost_statistics)
     print("\n")
